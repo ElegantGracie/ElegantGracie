@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ElegantGracie
+- 👋 Hi, I’m Grace Nwafor
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on Android development and cybersecurity 
