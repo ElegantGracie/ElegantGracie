@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Grace Nwafor
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on frontend projects 
+- 💞️ I’m looking to collaborate on / volunteer for any projects 
 - 📫 How to reach me gracenwafor50@gmail.com
 
 <!---
