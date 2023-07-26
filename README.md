@@ -2,9 +2,9 @@
 <h3 align="center">A software developer from Nigeria</h3>
 <img align="right" alt="Coding" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" width="400">
 
-- 🔭 I’m currently working on **Coin Coach**
+- 🔭 I’m currently working as an intern at **SwitchDev.io**
 
-- 🌱 I’m currently learning **Node.js, C# and taking Meta Backend Developer course on Coursera**
+- 🌱 I’m currently learning **Node.js and templating languages like ejs and pug**
 
 - 💬 Ask me about **Node.js, Database and basically learning.**
 
