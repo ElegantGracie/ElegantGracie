@@ -2,7 +2,7 @@
 <h3 align="center">A software developer from Nigeria</h3>
 <img align="right" alt="Coding" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" width="400">
 
-- 🔭 I’m currently working as an intern at **SwitchDev.io**
+- 🔭 I’m open to volunteer projects and collaborations
 
 - 🌱 I’m currently learning **Node.js and templating languages like ejs and pug**
 
