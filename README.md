@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nwafor Grace</h1>
-<h3 align="center">A software developer from Nigeria</h3>
+<h3 align="center">A software developer</h3>
 <img align="right" alt="Coding" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" width="400">
 
 - 🔭 I’m open to volunteer projects and collaborations
 
-- 🌱 I’m currently learning **Node.js and templating languages like ejs and pug**
+- 🌱 I work with **JavaScript and TypeScript**
 
 - 💬 Ask me about **Node.js, Database and basically learning.**
 
